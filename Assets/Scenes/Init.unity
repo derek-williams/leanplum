@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465785, g: 0.49641252, b: 0.574817, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -148,7 +148,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33252573, y: 0.56441575}
   m_AnchorMax: {x: 0.6877115, y: 0.6402628}
-  m_AnchoredPosition: {x: -0.62387, y: 3.7052917}
+  m_AnchoredPosition: {x: -0.62387085, y: 3.7052917}
   m_SizeDelta: {x: 9.0303, y: 3.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &79798388
@@ -623,7 +623,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 382067216}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ed8a5d84d4534c8fb5faffa52e67080, type: 3}
+  m_Script: {fileID: 11500000, guid: 59601305eaa9440a4bc71432afaaf2dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_LoginScreen: {fileID: 1467321362}
@@ -2146,7 +2146,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1110425556}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 53d2efdf1543f45b5b06059762e1bd3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 1de56ff59ac8847d09d59d6cb6d8bbbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_background: {fileID: 2014609475}
@@ -2526,7 +2526,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1467321362}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c9088b8e2d5640da8d5ea550724282e, type: 3}
+  m_Script: {fileID: 11500000, guid: 8db7fd88665fa48508786c0f91a6a513, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_username: {fileID: 1209099234}
@@ -2613,10 +2613,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1509620398}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e473f801e5e3545ca9b4fd4587adc1cd, type: 3}
+  m_Script: {fileID: 11500000, guid: 908160f4fe3cc40df906d4649b698ea6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_previousScreen: {fileID: 0}
+  m_previousScreen: {fileID: 1467321362}
 --- !u!1 &1695614023
 GameObject:
   m_ObjectHideFlags: 0
